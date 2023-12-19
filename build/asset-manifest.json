@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d57df9e9.css",
+    "main.js": "./static/js/main.13cf3a2b.js",
+    "static/media/close-up-hands-clapping-celebration-success (1).jpg": "./static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
+    "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "./static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
+    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "./static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
+    "static/media/bruno-kelzer-LvySG1hvuzI-unsplash.jpg": "./static/media/bruno-kelzer-LvySG1hvuzI-unsplash.4a217f728ad86edf7bd3.jpg",
+    "static/media/lucas-favre-JnoNcfFwrNA-unsplash.jpg": "./static/media/lucas-favre-JnoNcfFwrNA-unsplash.f13f26716543a9347b38.jpg",
+    "static/media/0411-06.png": "./static/media/0411-06.ca26aae81689544cee6e.png",
+    "static/media/20230619-2.png": "./static/media/20230619-2.73e8d71e040790f61f30.png",
+    "static/media/new back.png": "./static/media/new back.65cea4f64607a85187f2.png",
+    "static/media/0411-04_edited.jpg": "./static/media/0411-04_edited.6bf83c13573a2ec34b45.jpg",
+    "static/media/user (1).png": "./static/media/user (1).961568814dceb733c85a.png",
+    "static/media/reusable-bottle (1).png": "./static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
+    "static/media/back-to-top.png": "./static/media/back-to-top.7900966e71252a628fa0.png",
+    "index.html": "./index.html",
+    "main.d57df9e9.css.map": "./static/css/main.d57df9e9.css.map",
+    "main.13cf3a2b.js.map": "./static/js/main.13cf3a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57df9e9.css",
+    "static/js/main.13cf3a2b.js"
+  ]
+}
