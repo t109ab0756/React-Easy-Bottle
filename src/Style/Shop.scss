@@ -1,0 +1,114 @@
+main {
+  section.market {
+    background-image: url("../pictures/bruno-kelzer-LvySG1hvuzI-unsplash.jpg");
+    background-size: contain;
+    background-blend-mode: multiply; //// 設置背景混和模式為相乘模式 (有這才能設定透明度)
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100vh;
+    padding-top: 10rem;
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    div.market1 {
+      width: 400px;
+      height: 300px;
+      img {
+        width: 300px;
+        height: 200px;
+        border-radius: 10%;
+        box-shadow: 2px 2px 10px rgba(245, 243, 243, 0.3);
+      }
+      hr {
+        width: 80%;
+        margin: 20px auto 5px;
+        border-top: 1px solid #100f0f;
+      }
+      p {
+        font-size: 2rem;
+        font-weight: bold;
+        padding: 1rem 0rem;
+        color: white;
+      }
+      button {
+        color: #09777d;
+        background-color: #e8ecef;
+        font-size: 1.5rem;
+        padding: 1rem;
+        border: 2px solid black;
+        border-radius: 1rem;
+        cursor: pointer; //設定滑鼠特效
+      }
+      button:hover {
+        color: black;
+        background-color: white;
+        font-weight: 700;
+        font-size: 1.6rem;
+      } //商品欄中的直接購買點擊效果
+    }
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  main {
+    section.market {
+      background-size: cover;
+
+      div.market1 {
+        img {
+          width: 150px;
+          height: auto;
+          max-height: 150px;
+          border-radius: 1rem;
+        }
+        hr {
+          width: 60%;
+        }
+        p {
+          font-size: 1.5rem;
+          padding: 1rem 0;
+        }
+
+        button {
+          font-size: 1rem;
+          padding: 0.5rem;
+        }
+
+        button:hover {
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 818px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    section.market {
+      background-image: none;
+      background-color: rgb(74, 75, 76);
+      padding-bottom: 60rem;
+      div.market1 {
+        text-align: center;
+
+        img {
+          margin: 0 auto;
+          max-width: 80%;
+          max-height: 200px;
+        }
+
+        p {
+          font-size: 1.25rem;
+        }
+
+        button {
+          display: block;
+          margin: 0 auto;
+        }
+      }
+    }
+  }
+}

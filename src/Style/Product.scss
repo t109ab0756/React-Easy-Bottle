@@ -1,0 +1,100 @@
+main {
+  section.allt {
+    padding: 13rem 0rem;
+    background-image: url(../pictures/victor-freitas-WvDYdXDzkhs-unsplash.jpg);
+    background-size: cover; //讓背景圖片在螢幕上，盡可能縮放到剛好大小
+    background-blend-mode: multiply; //// 設置背景混和模式為相乘模式 (有這才能設定透明度)
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.7);
+    div.title {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      h2 {
+        font-size: 5rem;
+        color: white;
+        margin-left: 15rem;
+        letter-spacing: 0.5rem;
+        text-align: center;
+      }
+    }
+  }
+
+  section.advantage {
+    background-image: url("../pictures/garrett-butler-UrJ-fn2iRUM-unsplash.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10rem 0rem;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+    div.advantage1 {
+      width: 300px;
+      height: 270px;
+      background-color: #f6ebe4;
+      border: 1px solid black;
+      h2 {
+        font-size: 3rem;
+        line-height: 10rem;
+      }
+      p {
+        font-size: 1.5rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  main {
+    section.allt {
+      display: flex;
+      background-size: auto;
+      justify-content: center;
+      align-items: center;
+      div.title {
+        h2 {
+          width: 100%;
+          font-size: 3rem;
+          margin-left: 4rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 780px) {
+  main {
+    section.allt {
+      display: flex;
+      background-size: auto;
+      justify-content: center;
+      align-items: center;
+      div.title {
+        h2 {
+          font-size: 2.5rem;
+          margin-left: 1rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 570px) {
+  main {
+    section.allt {
+      display: flex;
+      background-size: auto;
+      justify-content: center;
+      align-items: center;
+      div.title {
+        h2 {
+          font-size: 1.5rem;
+          margin-left: 1rem;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+footer {
+  width: 100%;
+  background-color: #e8ecef;
+  display: flex;
+  flex-wrap: wrap;
+}
+footer div.contract {
+  display: flex;
+  flex-direction: column;
+  padding-left: 4rem;
+  width: 60%;
+}
+footer div.contract h3 {
+  padding-top: 1.5rem;
+  font-size: 2.5rem;
+}
+footer div.contract span {
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+footer div.map {
+  margin-top: 0.8rem;
+  padding-left: 6rem;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=footer.css.map */
