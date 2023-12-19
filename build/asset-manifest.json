@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Easy-Bottle-React/static/css/main.cbb4449f.css",
-    "main.js": "/Easy-Bottle-React/static/js/main.f9328173.js",
-    "static/media/close-up-hands-clapping-celebration-success (1).jpg": "/Easy-Bottle-React/static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
-    "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "/Easy-Bottle-React/static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
-    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/Easy-Bottle-React/static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
-    "static/media/bruno-kelzer-LvySG1hvuzI-unsplash.jpg": "/Easy-Bottle-React/static/media/bruno-kelzer-LvySG1hvuzI-unsplash.4a217f728ad86edf7bd3.jpg",
-    "static/media/lucas-favre-JnoNcfFwrNA-unsplash.jpg": "/Easy-Bottle-React/static/media/lucas-favre-JnoNcfFwrNA-unsplash.f13f26716543a9347b38.jpg",
-    "static/media/0411-06.png": "/Easy-Bottle-React/static/media/0411-06.ca26aae81689544cee6e.png",
-    "static/media/20230619-2.png": "/Easy-Bottle-React/static/media/20230619-2.73e8d71e040790f61f30.png",
-    "static/media/new back.png": "/Easy-Bottle-React/static/media/new back.65cea4f64607a85187f2.png",
-    "static/media/0411-04_edited.jpg": "/Easy-Bottle-React/static/media/0411-04_edited.6bf83c13573a2ec34b45.jpg",
-    "static/media/user (1).png": "/Easy-Bottle-React/static/media/user (1).961568814dceb733c85a.png",
-    "static/media/reusable-bottle (1).png": "/Easy-Bottle-React/static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
-    "static/media/back-to-top.png": "/Easy-Bottle-React/static/media/back-to-top.7900966e71252a628fa0.png",
-    "index.html": "/Easy-Bottle-React/index.html",
-    "main.cbb4449f.css.map": "/Easy-Bottle-React/static/css/main.cbb4449f.css.map",
-    "main.f9328173.js.map": "/Easy-Bottle-React/static/js/main.f9328173.js.map"
+    "main.css": "/t109ab0756/Easy-Bottle-React/static/css/main.c73de0fb.css",
+    "main.js": "/t109ab0756/Easy-Bottle-React/static/js/main.fa86fd08.js",
+    "static/media/close-up-hands-clapping-celebration-success (1).jpg": "/t109ab0756/Easy-Bottle-React/static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
+    "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
+    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
+    "static/media/bruno-kelzer-LvySG1hvuzI-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/bruno-kelzer-LvySG1hvuzI-unsplash.4a217f728ad86edf7bd3.jpg",
+    "static/media/lucas-favre-JnoNcfFwrNA-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/lucas-favre-JnoNcfFwrNA-unsplash.f13f26716543a9347b38.jpg",
+    "static/media/0411-06.png": "/t109ab0756/Easy-Bottle-React/static/media/0411-06.ca26aae81689544cee6e.png",
+    "static/media/20230619-2.png": "/t109ab0756/Easy-Bottle-React/static/media/20230619-2.73e8d71e040790f61f30.png",
+    "static/media/new back.png": "/t109ab0756/Easy-Bottle-React/static/media/new back.65cea4f64607a85187f2.png",
+    "static/media/0411-04_edited.jpg": "/t109ab0756/Easy-Bottle-React/static/media/0411-04_edited.6bf83c13573a2ec34b45.jpg",
+    "static/media/user (1).png": "/t109ab0756/Easy-Bottle-React/static/media/user (1).961568814dceb733c85a.png",
+    "static/media/reusable-bottle (1).png": "/t109ab0756/Easy-Bottle-React/static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
+    "static/media/back-to-top.png": "/t109ab0756/Easy-Bottle-React/static/media/back-to-top.7900966e71252a628fa0.png",
+    "index.html": "/t109ab0756/Easy-Bottle-React/index.html",
+    "main.c73de0fb.css.map": "/t109ab0756/Easy-Bottle-React/static/css/main.c73de0fb.css.map",
+    "main.fa86fd08.js.map": "/t109ab0756/Easy-Bottle-React/static/js/main.fa86fd08.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbb4449f.css",
-    "static/js/main.f9328173.js"
+    "static/css/main.c73de0fb.css",
+    "static/js/main.fa86fd08.js"
   ]
 }
