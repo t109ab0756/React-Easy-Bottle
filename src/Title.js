@@ -33,7 +33,7 @@ const Title = () => {
         <br />
         <section className="design">
           <div className="b">
-            <img src={require("./pictures/0411-06.png")} alt="easyBottle" />
+            <img src={require("./pictures/0411-06.png")} alt="EasyBottle" />
           </div>
 
           <div className="c">
@@ -54,19 +54,19 @@ const Title = () => {
 
         <div className="all">
           <div className="titlesell">
-            <img src={require("./pictures/20230619-2.png")} alt="easyBottle" />
+            <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
             <hr />
             <span>Level Up Bottle 500ml / NT$350</span>
           </div>
 
           <div className="titlesell">
-            <img src={require("./pictures/20230619-2.png")} alt="easyBottle" />
+            <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
             <hr />
             <span>Level Up Bottle 750ml / NT$500</span>
           </div>
 
           <div className="titlesell">
-            <img src={require("./pictures/20230619-2.png")} alt="easyBottle" />
+            <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
             <hr />
             <span>Level Up Bottle 1000ml / NT$650</span>
           </div>
