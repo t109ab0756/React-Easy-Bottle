@@ -14,7 +14,7 @@ function BackToTop() {
       src={require("./pictures/back-to-top.png")}
       className="back-to-top"
       onClick={scrollToTop}
-      alt="bottle"
+      alt="Back-To-Top"
     />
   );
 }
