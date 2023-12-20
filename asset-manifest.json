@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Easy-Bottle/static/css/main.d65c4b4b.css",
-    "main.js": "/React-Easy-Bottle/static/js/main.6efcb939.js",
+    "main.css": "/React-Easy-Bottle/static/css/main.ad1c30e1.css",
+    "main.js": "/React-Easy-Bottle/static/js/main.39a68640.js",
     "static/media/close-up-hands-clapping-celebration-success (1).jpg": "/React-Easy-Bottle/static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
     "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "/React-Easy-Bottle/static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
     "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/React-Easy-Bottle/static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
@@ -15,11 +15,11 @@
     "static/media/reusable-bottle (1).png": "/React-Easy-Bottle/static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
     "static/media/back-to-top.png": "/React-Easy-Bottle/static/media/back-to-top.7900966e71252a628fa0.png",
     "index.html": "/React-Easy-Bottle/index.html",
-    "main.d65c4b4b.css.map": "/React-Easy-Bottle/static/css/main.d65c4b4b.css.map",
-    "main.6efcb939.js.map": "/React-Easy-Bottle/static/js/main.6efcb939.js.map"
+    "main.ad1c30e1.css.map": "/React-Easy-Bottle/static/css/main.ad1c30e1.css.map",
+    "main.39a68640.js.map": "/React-Easy-Bottle/static/js/main.39a68640.js.map"
   },
   "entrypoints": [
-    "static/css/main.d65c4b4b.css",
-    "static/js/main.6efcb939.js"
+    "static/css/main.ad1c30e1.css",
+    "static/js/main.39a68640.js"
   ]
 }
