@@ -12,19 +12,19 @@ const Shop = () => {
     <main>
       <section className="market">
         <div className="market1">
-          <img src={require("./pictures/20230619-2.png")} alt="bottle" />
+          <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
           <hr />
           <p>Level Up Bottle / 500ml</p>
           <button onClick={gologin}>直接購買</button>
         </div>
         <div className="market1">
-          <img src={require("./pictures/20230619-2.png")} alt="bottle" />
+          <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
           <hr />
           <p>Level Up Bottle / 750ml</p>
           <button onClick={gologin}>直接購買</button>
         </div>
         <div className="market1">
-          <img src={require("./pictures/20230619-2.png")} alt="bottle" />
+          <img src={require("./pictures/20230619-2.png")} alt="Easy-Bottle-Product" />
           <hr />
           <p>Level Up Bottle / 1000ml</p>
           <button onClick={gologin}>直接購買</button>
