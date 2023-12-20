@@ -14,7 +14,7 @@ const AboutTeam = () => {
           <div className="hand">
             <img
               src={require("./pictures/close-up-hands-clapping-celebration-success (1).jpg")}
-              alt="easyBottle"
+              alt="Team"
             />
           </div>
         </section>
