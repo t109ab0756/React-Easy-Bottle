@@ -63,7 +63,7 @@ function Header() {
   return (
     <header>
       <div className="logo">
-        <img src={reusableBottle2} onClick={goBack} alt="easyBottle" />
+        <img src={reusableBottle2} onClick={goBack} alt="Logo" />
         <h1 onClick={goBack}>繭單拉</h1>
       </div>
 
